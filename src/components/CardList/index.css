@@ -1,9 +1,0 @@
-.container-cardlist {
-  display: flex;
-  flex-wrap: wrap;
-  justify-content: center;
-  align-items: center;
-  border-top: #020202 4px dashed;
-  padding-top: 10px;
-  min-width: 100%;
-}
